@@ -1,0 +1,13 @@
+/* ******************** */
+    /* DEFAULTS */
+/* ******************** */
+
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    /* style this based on the parents font size. 3em will equal 3 times the size of the parents font */
+    font-size: 3em;
+}
